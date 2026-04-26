@@ -1,0 +1,32 @@
+.DS_Store
+
+# Environment files
+client/.env
+server/.env
+
+# Dependencies
+client/node_modules/
+server/node_modules/
+
+# Build output
+client/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local backups
+backups/
+
+# Editor/system noise
+.vscode/
+.idea/
+
+# Documents kept locally but not pushed
+*.doc
+*.docx
+*.pdf
+
+# Unrelated root lockfile
+/package-lock.json
+/requirements.txt
