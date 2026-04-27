@@ -19,7 +19,7 @@ Advanced DBMS enhancements are also included in:
 
 ## Project Name
 
-Integrated Restaurant Management System
+RestroSync
 
 ## Folder Structure
 
