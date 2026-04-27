@@ -64,7 +64,7 @@ const DashboardPage = ({ entities }) => {
         <div className="flex flex-col gap-5 xl:flex-row xl:items-end xl:justify-between">
           <div>
             <p className="text-xs font-semibold uppercase tracking-[0.3em] text-fuchsia-200">Project Overview</p>
-            <h2 className="mt-2 text-3xl font-bold text-white">Restaurant Management System Dashboard</h2>
+            <h2 className="mt-2 text-3xl font-bold text-white">RestroSync Dashboard</h2>
             <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-200">
               Live operational visibility across menu, billing, orders, employees, inventory, recipes, and purchasing.
             </p>

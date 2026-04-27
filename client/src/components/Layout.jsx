@@ -64,7 +64,7 @@ const Layout = ({ entities, children }) => {
       <div className="mx-auto grid max-w-7xl gap-6 lg:grid-cols-[290px_minmax(0,1fr)]">
         <aside className="rounded-[32px] border border-white/10 bg-slate-900/70 p-5 shadow-glow backdrop-blur">
           <div className="rounded-[28px] border border-white/10 bg-gradient-to-br from-fuchsia-500/20 via-white/5 to-sky-500/10 p-5">
-            <p className="text-xs font-semibold uppercase tracking-[0.3em] text-fuchsia-200">Restaurant DBMS</p>
+            <p className="text-xs font-semibold uppercase tracking-[0.3em] text-fuchsia-200">RestroSync</p>
             <h1 className="mt-3 text-3xl font-bold leading-tight text-white">Integrated Management System</h1>
             <p className="mt-3 text-sm leading-6 text-slate-300">
               Daily operations, billing, recipes, procurement, and stock management in one place.
